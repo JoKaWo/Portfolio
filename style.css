@@ -83,10 +83,14 @@ nav a.ativo {
 }
 
 .redes-sociais {
-  color: #8b3fd9;
   font-size: 30px;
   display: flex;
   gap: 20px;
+}
+
+.redes-sociais a {
+  color: #8b3fd9;
+  text-decoration: none;
 }
 
 .redes-sociais a:hover {
